@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi there, I'm Kamal Mohamed 👋
 
-<!--
-**KamalABO/KamalABO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
 
-Here are some ideas to get you started:
+I'm a Frontend Developer & Data Systems Specialist with a passion for building high-performance web applications and managing complex data architectures. Currently focused on strategic dashboard management and military-grade data systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Current Focus: Building Secure Military Strategic Dashboards.
+
+💼 Industry Experience: Real Estate (Lamar), Industrial Manufacturing, and Military Systems.
+
+⚡ Fun Fact: I handle large-scale data systems for military warehouses & UAV units.
+
+📫 Contact Me: aboshadykemo@gmail.com
+
+🛠 My Tech Stack
+
+📈 GitHub Stats
+
+🔗 Connect with Me
