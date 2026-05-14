@@ -1,19 +1,17 @@
 Hi there, I'm Kamal Mohamed 👋
 
-🚀 About Me
+🛠 My Elite Tech Stack
 
-I'm a Frontend Developer & Data Systems Specialist with a passion for building high-performance web applications and managing complex data architectures. Currently focused on strategic dashboard management and military-grade data systems.
+🌟 Unique Technical Edge (Add-ons)
 
-🔭 Current Focus: Building Secure Military Strategic Dashboards.
+📈 Data Visualization: Transforming raw data into insightful, interactive stories using Next Charts and custom reporting tools.
 
-💼 Industry Experience: Real Estate (Lamar), Industrial Manufacturing, and Military Systems.
+🗄️ Database Management: Efficiently handling Big Data for large-scale workshops and industrial warehouses with a focus on data integrity.
 
-⚡ Fun Fact: I handle large-scale data systems for military warehouses & UAV units.
+📡 Networking & Infrastructure: Practical knowledge in Mikrotik systems, managing local network data distribution and optimizing hardware-level communication.
 
-📫 Contact Me: aboshadykemo@gmail.com
+🛠 Industrial Logic: Experienced in managing data flows for manufacturing, assembly, and massive inventory systems.
 
-🛠 My Tech Stack
+📈 GitHub Ecosystem
 
-📈 GitHub Stats
-
-🔗 Connect with Me
+🔗 Let's Build Something Extraordinary
